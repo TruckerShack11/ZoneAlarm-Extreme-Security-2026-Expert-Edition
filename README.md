@@ -2,7 +2,7 @@
 
 Professional collection of cybersecurity resources, firewall optimization workflows, and system protection guides for ZoneAlarm Extreme Security 2026.
 
-![Preview](https://i.postimg.cc/7YY91dNq/i-(29).webp)
+![Preview](https://i.postimg.cc/wvMfqrbj/Zone-Alarm-Extreme-Security-Beta.jpg)
 
 ## Download
 
